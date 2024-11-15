@@ -1,5 +1,6 @@
 # study_nextjs
 
+```
 ・typescript
 ・tailwind
 ・react icon
@@ -11,3 +12,4 @@
 ・Formik
 ・react-hot-toast
 ・Framer Motion
+```
